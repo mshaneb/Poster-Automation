@@ -61,3 +61,5 @@ elif selection != "1" or "2":
     print("Returning to Main Menu:"
           "\n" * 3
           )
+
+selection = input()
